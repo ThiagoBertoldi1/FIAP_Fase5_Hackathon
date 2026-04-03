@@ -9,4 +9,4 @@ Clone este repositório e, no diretório onde está o
 docker-compose up --build
 ```
 
-Pronto! O ambiente estará configurado para rodar a aplicação. 🎉
+Pronto! O ambiente estará configurado para rodar a aplicação. 🎉🎉
